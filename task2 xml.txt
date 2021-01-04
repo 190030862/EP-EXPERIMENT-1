@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_info>
+<student>   			
+   <regno>190030456</regno>
+   <name>Rekha</name>    
+   <avg>92</avg>
+   <dob>15-08-2001</dob>  
+   <time></time>       
+   <mobile no="9849984900"/>  		   
+   <distinction>YES</distinction>
+ </student>
+ 
+ <student>   			
+   <regno>190030841</regno>
+   <name>Sindhu</name>    
+   <avg>98</avg>
+   <dob>3-12-2000</dob>  
+   <time></time>       
+   <mobile no="9848874989"/>  		   
+   <distinction>YES</distinction>
+ </student>
+ 
+ <student>   			
+   <regno>190030693</regno>
+   <name>ABC</name>    
+   <avg>94</avg>
+   <dob>1-1-2001</dob>  
+   <time></time>       
+   <mobile no="9874569254"/>  		   
+   <distinction>YES</distinction>
+ </student>
+ 
+ <student>   			
+   <regno>1900301193</regno>
+   <name>tejasree</name>    
+   <avg>95</avg>
+   <dob>25-08-2001</dob>  
+   <time></time>       
+   <mobile no="9369452178"/>  		   
+   <distinction>YES</distinction>
+ </student>
+ 
+ <student>   			
+   <regno>190030904</regno>
+   <name>sravya</name>    
+   <avg>93</avg>
+   <dob>4-5-2001</dob>  
+   <time></time>       
+   <mobile no="9378956247"/>  		   
+   <distinction>YES</distinction>
+ </student>
+</students_info>
