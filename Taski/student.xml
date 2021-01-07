@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ <Students>
+	
+	<student>
+		<name>Saipriya</name>
+		<idno> 19003968 </idno>
+		<email>kosuri123@</email>
+		<class>B.tech</class>
+		<marks>98</marks>
+	</student>
+
+	<student>
+		<name>Sindhu</name>
+		<idno> 190031896 </idno>
+		<email>km145@</email>
+		<class>BBC</class>
+		<marks>95</marks>
+	</student>
+	
+	<student>
+		<name>monika</name>
+		<idno> 190034569 </idno>
+		<email>nan765@</email>
+		<class>B.COM</class>
+		<marks>90</marks>
+	</student>
+
+	<student>
+		<name>Nandini</name>
+		<idno> 190031196 </idno>
+		<email>kgh798@</email>
+		<class>B.tech</class>
+		<marks>98</marks>
+	</student>
+
+</Students>
